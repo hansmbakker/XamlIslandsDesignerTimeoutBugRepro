@@ -2,7 +2,7 @@ Bug reproduction for .Net Core Windows Forms designer
 =====
 
 # Introduction
-This repository is a bug reproduction for the feedback [`.Net Core WinForms times out when opening Form`](TODO).
+This repository is a bug reproduction for the feedback [`.Net Core WinForms times out when opening Form`](https://developercommunity.visualstudio.com/content/problem/1110297/net-core-winforms-times-out-when-opening-form.html).
 
 There seems to be an issue when referencing the UWP project containing the `XamlApplication` class from the Windows Forms project.
 
